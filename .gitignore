@@ -1,0 +1,48 @@
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.ide
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.exe
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.ipdb
+*.tlog
+*.pch
+*.res
+
+# Visual Studio Code settings
+.vscode/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Other temporary files
+*.dmp
+*.cache
+*.log
+*.vs/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Folder for custom build artifacts
+CustomBuild/
